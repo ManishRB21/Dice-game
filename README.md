@@ -1,6 +1,6 @@
 # Dice-game
 Dice game made using JavaScript
-- JAVA coding part -
+- Js coding part -
 - Create a new Javascript file called index.js and link to it from the index.html file.
 - In the Dicee project, there is a folder called images, add the images of dice6.png as the source to both of the <img> elements.
 - Inside index.js, create a new variable called randomNumber1 then set the value of this variable to a random number between 1 and 6. Test it out in the console to make sure it works as expected.
